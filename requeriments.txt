@@ -1,0 +1,7 @@
+streamlit
+pandas
+xgboost
+numpy
+matplotlib.pyplot
+seaborn
+geopandas
