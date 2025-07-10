@@ -1,7 +1,11 @@
 streamlit
-pandas
 xgboost
+pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 geopandas
+shapely
+folium
+streamlit-folium
+pyproj
